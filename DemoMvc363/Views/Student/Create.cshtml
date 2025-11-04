@@ -1,0 +1,20 @@
+@model DemoMvc363.Models.Student.Entities
+@{
+    ViewData["Title"] = "Nhập thông tin sinh viên";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form method="post">
+    <div class="mb-3">
+        <label>Họ tên:</label>
+        <input asp-for="Name" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label>Mã sinh viên:</label>
+        <input asp-for="Age" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Gửi</button>
+</form>

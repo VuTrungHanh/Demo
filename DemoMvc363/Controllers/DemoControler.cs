@@ -43,5 +43,19 @@ namespace DemoMvc.Controllers
         {
             return StatusCode(404, "Không tìm thấy tài nguyên yêu cầu!");
         }
+
+        [HttpGet]
+        public IActionResult Input()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult Input(string name, int age)
+        {
+            ViewBag.Info = $"Tên: {name}, Tuổi: {age}";
+            return View();
+        }
+
     }
 }

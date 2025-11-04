@@ -1,0 +1,13 @@
+@model DemoMvc363.Models.Student.Entities
+@{
+    ViewData["Title"] = "Kết quả nhập sinh viên";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<ul class="list-group">
+    <li class="list-group-item"><b>Họ tên:</b> @Model.FullName</li>
+    <li class="list-group-item"><b>Mã sinh viên:</b> @Model.StudentCode</li>
+</ul>
+
+<a class="btn btn-secondary mt-3" href="/Student/Create">Nhập lại</a>
