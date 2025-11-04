@@ -1,4 +1,4 @@
-@model DemoMvc363.Models.Student.Entities
+@model DemoMvc363.Models.Student
 @{
     ViewData["Title"] = "Nhập thông tin sinh viên";
 }
@@ -8,12 +8,12 @@
 <form method="post">
     <div class="mb-3">
         <label>Họ tên:</label>
-        <input asp-for="Name" class="form-control" />
+        <input asp-for="FullName" class="form-control" />
     </div>
 
     <div class="mb-3">
         <label>Mã sinh viên:</label>
-        <input asp-for="Age" class="form-control" />
+        <input asp-for="StudentCode" class="form-control" />
     </div>
 
     <button type="submit" class="btn btn-primary">Gửi</button>
