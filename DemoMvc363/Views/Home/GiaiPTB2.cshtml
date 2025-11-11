@@ -1,0 +1,25 @@
+@model DemoMvc363.Models.PTB2Model
+
+@{
+    ViewData["Title"] = "Giải phương trình bậc 2";
+}
+
+<h2>Giải phương trình bậc 2</h2>
+
+<form asp-action="GiaiPTB2" method="post">
+    <label>a:</label>
+    <input type="number" name="A" step="any" required />
+    <br />
+    <label>b:</label>
+    <input type="number" name="B" step="any" required />
+    <br />
+    <label>c:</label>
+    <input type="number" name="C" step="any" required />
+    <br />
+    <button type="submit">Giải</button>
+</form>
+
+@if (ViewBag.KetQua != null)
+{
+    <h3>Kết quả: @ViewBag.KetQua</h3>
+}

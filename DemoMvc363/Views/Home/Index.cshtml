@@ -1,8 +1,20 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Nhập thông tin";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<h2>Nhập thông tin cá nhân</h2>
+
+<form asp-action="Index" method="post">
+    <div>
+        <label>Họ và tên:</label>
+        <input type="text" name="ten" required />
+    </div>
+    <div>
+        <label>Năm sinh:</label>
+        <input type="number" name="namSinh" required />
+    </div>
+    <button type="submit">Gửi</button>
+</form>
+
+<hr />
+<a href="/Home/GiaiPTB2">→ Giải phương trình bậc 2</a>
