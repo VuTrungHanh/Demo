@@ -17,7 +17,7 @@ namespace DemoMvc363.Controllers
         {
             int tuoi = DateTime.Now.Year - NamSinh;
             ViewBag.Ten = Ten;
-            ViewBag.Tuoi = Tuoi;
+            ViewBag.Tuoi = tuoi;
             return View("Result");
         }
 

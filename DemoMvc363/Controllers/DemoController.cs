@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Text;
 
-namespace DemoMvc.Controllers
+namespace DemoMvc363.Controllers
 {
     public class DemoController : Controller
     { 
