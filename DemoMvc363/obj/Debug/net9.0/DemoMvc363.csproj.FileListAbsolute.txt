@@ -1,11 +1,12 @@
-G:\Demo\DemoMvc363\bin\Debug\net9.0\DemoMvc363.exe
-G:\Demo\DemoMvc363\bin\Debug\net9.0\DemoMvc363.dll
-G:\Demo\DemoMvc363\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
-G:\Demo\DemoMvc363\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
 G:\Demo\DemoMvc363\bin\Debug\net9.0\appsettings.Development.json
 G:\Demo\DemoMvc363\bin\Debug\net9.0\appsettings.json
 G:\Demo\DemoMvc363\bin\Debug\net9.0\DemoMvc363.staticwebassets.runtime.json
 G:\Demo\DemoMvc363\bin\Debug\net9.0\DemoMvc363.staticwebassets.endpoints.json
+G:\Demo\DemoMvc363\bin\Debug\net9.0\DemoMvc363.exe
+G:\Demo\DemoMvc363\bin\Debug\net9.0\DemoMvc363.deps.json
+G:\Demo\DemoMvc363\bin\Debug\net9.0\DemoMvc363.runtimeconfig.json
+G:\Demo\DemoMvc363\bin\Debug\net9.0\DemoMvc363.dll
+G:\Demo\DemoMvc363\bin\Debug\net9.0\DemoMvc363.pdb
 G:\Demo\DemoMvc363\bin\Debug\net9.0\Azure.Core.dll
 G:\Demo\DemoMvc363\bin\Debug\net9.0\Azure.Identity.dll
 G:\Demo\DemoMvc363\bin\Debug\net9.0\Humanizer.dll
@@ -30,8 +31,10 @@ G:\Demo\DemoMvc363\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
 G:\Demo\DemoMvc363\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
 G:\Demo\DemoMvc363\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
 G:\Demo\DemoMvc363\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+G:\Demo\DemoMvc363\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
 G:\Demo\DemoMvc363\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 G:\Demo\DemoMvc363\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Demo\DemoMvc363\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
 G:\Demo\DemoMvc363\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
 G:\Demo\DemoMvc363\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 G:\Demo\DemoMvc363\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
@@ -348,8 +351,5 @@ G:\Demo\DemoMvc363\obj\Debug\net9.0\DemoMvc363.csproj.Up2Date
 G:\Demo\DemoMvc363\obj\Debug\net9.0\DemoMvc363.dll
 G:\Demo\DemoMvc363\obj\Debug\net9.0\refint\DemoMvc363.dll
 G:\Demo\DemoMvc363\obj\Debug\net9.0\DemoMvc363.pdb
-G:\Demo\DemoMvc363\bin\Debug\net9.0\DemoMvc363.deps.json
-G:\Demo\DemoMvc363\bin\Debug\net9.0\DemoMvc363.runtimeconfig.json
-G:\Demo\DemoMvc363\bin\Debug\net9.0\DemoMvc363.pdb
 G:\Demo\DemoMvc363\obj\Debug\net9.0\DemoMvc363.genruntimeconfig.cache
 G:\Demo\DemoMvc363\obj\Debug\net9.0\ref\DemoMvc363.dll

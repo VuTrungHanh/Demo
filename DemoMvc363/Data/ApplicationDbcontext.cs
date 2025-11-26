@@ -12,6 +12,6 @@ namespace DemoMvc363.Data
         }
 
         public DbSet<Person> Person { get; set; }
-        public DbSet<Student> Student { get; set; }
+        public DbSet<Student> Students { get; set; }
     }
 }
