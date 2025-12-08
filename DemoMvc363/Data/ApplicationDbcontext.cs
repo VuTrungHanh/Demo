@@ -13,5 +13,6 @@ namespace DemoMvc363.Data
 
         public DbSet<Person> Person { get; set; }
         public DbSet<Student> Students { get; set; }
+        public DbSet<DemoMvc363.Models.Employee> Employee { get; set; } = default!;
     }
 }

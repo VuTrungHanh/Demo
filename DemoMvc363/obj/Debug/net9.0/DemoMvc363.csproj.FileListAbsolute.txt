@@ -9,6 +9,8 @@ G:\Demo\DemoMvc363\bin\Debug\net9.0\DemoMvc363.dll
 G:\Demo\DemoMvc363\bin\Debug\net9.0\DemoMvc363.pdb
 G:\Demo\DemoMvc363\bin\Debug\net9.0\Azure.Core.dll
 G:\Demo\DemoMvc363\bin\Debug\net9.0\Azure.Identity.dll
+G:\Demo\DemoMvc363\bin\Debug\net9.0\EPPlus.dll
+G:\Demo\DemoMvc363\bin\Debug\net9.0\EPPlus.Interfaces.dll
 G:\Demo\DemoMvc363\bin\Debug\net9.0\Humanizer.dll
 G:\Demo\DemoMvc363\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
 G:\Demo\DemoMvc363\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
@@ -37,7 +39,15 @@ G:\Demo\DemoMvc363\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
 G:\Demo\DemoMvc363\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
 G:\Demo\DemoMvc363\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
 G:\Demo\DemoMvc363\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Demo\DemoMvc363\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+G:\Demo\DemoMvc363\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Demo\DemoMvc363\bin\Debug\net9.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+G:\Demo\DemoMvc363\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Json.dll
 G:\Demo\DemoMvc363\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+G:\Demo\DemoMvc363\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\Demo\DemoMvc363\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Physical.dll
+G:\Demo\DemoMvc363\bin\Debug\net9.0\Microsoft.Extensions.FileSystemGlobbing.dll
+G:\Demo\DemoMvc363\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
 G:\Demo\DemoMvc363\bin\Debug\net9.0\Microsoft.Identity.Client.dll
 G:\Demo\DemoMvc363\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
 G:\Demo\DemoMvc363\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
@@ -46,6 +56,7 @@ G:\Demo\DemoMvc363\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
 G:\Demo\DemoMvc363\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
 G:\Demo\DemoMvc363\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 G:\Demo\DemoMvc363\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+G:\Demo\DemoMvc363\bin\Debug\net9.0\Microsoft.IO.RecyclableMemoryStream.dll
 G:\Demo\DemoMvc363\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
 G:\Demo\DemoMvc363\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
 G:\Demo\DemoMvc363\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
@@ -81,7 +92,10 @@ G:\Demo\DemoMvc363\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
 G:\Demo\DemoMvc363\bin\Debug\net9.0\System.Memory.Data.dll
 G:\Demo\DemoMvc363\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
 G:\Demo\DemoMvc363\bin\Debug\net9.0\System.Runtime.Caching.dll
+G:\Demo\DemoMvc363\bin\Debug\net9.0\System.Security.Cryptography.Pkcs.dll
 G:\Demo\DemoMvc363\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+G:\Demo\DemoMvc363\bin\Debug\net9.0\System.Security.Cryptography.Xml.dll
+G:\Demo\DemoMvc363\bin\Debug\net9.0\System.Text.Encoding.CodePages.dll
 G:\Demo\DemoMvc363\bin\Debug\net9.0\af\Humanizer.resources.dll
 G:\Demo\DemoMvc363\bin\Debug\net9.0\ar\Humanizer.resources.dll
 G:\Demo\DemoMvc363\bin\Debug\net9.0\az\Humanizer.resources.dll
@@ -262,6 +276,8 @@ G:\Demo\DemoMvc363\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
 G:\Demo\DemoMvc363\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
 G:\Demo\DemoMvc363\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
 G:\Demo\DemoMvc363\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\Demo\DemoMvc363\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+G:\Demo\DemoMvc363\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Text.Encoding.CodePages.dll
 G:\Demo\DemoMvc363\obj\Debug\net9.0\DemoMvc363.csproj.AssemblyReference.cache
 G:\Demo\DemoMvc363\obj\Debug\net9.0\DemoMvc363.GeneratedMSBuildEditorConfig.editorconfig
 G:\Demo\DemoMvc363\obj\Debug\net9.0\DemoMvc363.AssemblyInfoInputs.cache

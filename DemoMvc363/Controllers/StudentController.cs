@@ -32,6 +32,11 @@ namespace DemoMvc363.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("StudentCode,FullName")] Student student)
         {
+            if (_context.Students.Any(s => s.StudentCode == student.StudentCode))
+            {
+                ModelState.AddModelError("StudentCode", "Mã sinh viên đã tồn tại!");
+                return View(student);
+            }
             if (ModelState.IsValid)
             {
                 _context.Add(student);
